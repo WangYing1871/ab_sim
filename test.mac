@@ -1,0 +1,17 @@
+/mydet/generator fGParticleSource
+/gps/particle geantino
+/gps/energy 1 keV
+/gps/pos/type Point
+/gps/pos/centre -20 0 -3 cm
+/gps/direction 1 0 0
+/tracking/verbose 2
+/run/beamOn 1
+
+/mydet/generator fGParticleSource
+/gps/particle geantino
+/gps/energy 1 keV
+/gps/pos/type Point
+/gps/pos/centre 0 0 10 cm
+/gps/direction 0 0 -1
+/tracking/verbose 2
+/run/beamOn 1

@@ -1,0 +1,7 @@
+/mydet/generator PYTHIA
+/control/verbose 2
+/run/verbose 1
+/tracking/verbose 2
+/run/beamOn 100000 
+#/tracking/verbose 0
+
