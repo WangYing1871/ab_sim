@@ -1,2 +1,7 @@
 build/
 .*.swp
+.*.root
+.*.txt
+.*.dat
+3rd-party/
+mis/
